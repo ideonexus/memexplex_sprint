@@ -1,0 +1,11 @@
+C:\Users\ideonexus\Desktop\QuickReminder\Source\bin\Debug\QuickReminder.exe
+C:\Users\ideonexus\Desktop\QuickReminder\Source\bin\Debug\QuickReminder.pdb
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\QuickReminder.MainForm.resources
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\QuickReminder.Properties.Resources.resources
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\QuickReminder.ReminderForm.resources
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\ResGen.read.1.tlog
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\ResGen.write.1.tlog
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\QuickReminder.exe
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\QuickReminder.pdb
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\mxplx.Properties.Resources.resources

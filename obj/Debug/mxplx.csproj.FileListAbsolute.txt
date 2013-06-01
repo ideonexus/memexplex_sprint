@@ -1,0 +1,29 @@
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\mxplx.Properties.Resources.resources
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\ResGen.read.1.tlog
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\ResGen.write.1.tlog
+C:\Users\ideonexus\Desktop\QuickReminder\Source\bin\Debug\mxplx.exe
+C:\Users\ideonexus\Desktop\QuickReminder\Source\bin\Debug\mxplx.pdb
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\mxplx.MainForm.resources
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\mxplx.ReminderForm.resources
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\mxplx.exe
+C:\Users\ideonexus\Desktop\QuickReminder\Source\obj\Debug\mxplx.pdb
+C:\Users\ideonexus\Desktop\mxplx mindfulness\Source\obj\Debug\mxplx.exe
+C:\Users\ideonexus\Desktop\mxplx mindfulness\Source\obj\Debug\mxplx.pdb
+C:\Users\ideonexus\Desktop\mxplx mindfulness\Source\bin\Debug\mxplx.exe
+C:\Users\ideonexus\Desktop\mxplx mindfulness\Source\bin\Debug\mxplx.pdb
+C:\Users\ideonexus\Desktop\mxplx mindfulness\Source\obj\Debug\mxplx.MainForm.resources
+C:\Users\ideonexus\Desktop\mxplx mindfulness\Source\obj\Debug\mxplx.Properties.Resources.resources
+C:\Users\ideonexus\Desktop\mxplx mindfulness\Source\obj\Debug\mxplx.ReminderForm.resources
+C:\Users\ideonexus\Desktop\mxplx mindfulness\Source\obj\Debug\mxplx.csproj.GenerateResource.Cache
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.exe
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.pdb
+C:\i\Code\Projects\mxplx mindfulness\Source\bin\Debug\mxplx.exe
+C:\i\Code\Projects\mxplx mindfulness\Source\bin\Debug\mxplx.pdb
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.csprojResolveAssemblyReference.cache
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.MainForm.resources
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.Properties.Resources.resources
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.ReminderForm.resources
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.csproj.GenerateResource.Cache
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.Forms.MemeForm.resources
+C:\i\Code\Projects\mxplx mindfulness\Source\obj\Debug\mxplx.exe.licenses
